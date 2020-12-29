@@ -1,8 +1,8 @@
-# Preprocesado y analisis del dataset _Mobile_Price_
+# Preprocesado y analisis del dataset _Mobile Price Classification_
 
 ## Descripción
 
-Preprocesado y analisis del dataset _Mobile_Price_.
+Preprocesado y analisis del dataset _Mobile_Price Classification_.
 
 ## Ficheros
 
