@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Preprocesado y analisis del dataset _Mobile_Price Classification_.
+Preprocesado y analisis del dataset _Mobile Price Classification_.
 
 ## Ficheros
 
